@@ -24,6 +24,4 @@ public class CategoryController {
         categories.add(category);
         return "category created successfully";
     }
-
-
 }
